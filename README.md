@@ -1,1 +1,3 @@
-Hey team 9193! the code right now is in under heavy maintenance, and still under its debugging stage. But for now you can look under the hood and see the proggess that is happening, by click -->**src/main** -->**java/frc/robot** --> and files the have a ".java" in the end. Credits to ai for carrying, maybe...
+
+We probably won't use this :(
+but you can still look at it :)
